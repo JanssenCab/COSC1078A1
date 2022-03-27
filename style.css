@@ -9,11 +9,12 @@ body{
   margin-bottom: 250px;
   margin-right: 250px;
   margin-left: 250px;
+  text-align: center;
 
   color: black;
   background-color: #ebad05;
 }
-p {
+p{
   color: black;
   font-size: 17px;
   width: 50%;
@@ -24,4 +25,5 @@ p {
   margin-right: 150px;
   margin-bottom: 3px;
   margin-left: 75px;
+  text-align: center;
 }
